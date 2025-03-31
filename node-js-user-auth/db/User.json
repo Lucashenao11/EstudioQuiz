@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "62ae4dc9-39bf-400d-8688-8fcbac369bd8",
+    "username": "Iñaki godoy",
+    "password": "lukecage1244"
+  },
+  {
+    "_id": "48e68ce3-2d84-4044-b8c5-26d1f2941adc",
+    "username": "Monkey D Luffy",
+    "password": "kaizokuoniorewanaru!"
+  },
+  {
+    "_id": "c0a2da60-a1fc-426b-9645-a340575b18a5",
+    "username": "Monkey D Garp",
+    "password": "$2b$10$VGshccBCmfQKf0q3vhw.7ul7YftUd5B6JJRFvU5TynldTNF10Q23W"
+  },
+  {
+    "_id": "08d21013-be60-410a-a9f9-6477fc1f7410",
+    "username": "Monkey D Dragon",
+    "password": "$2b$10$zoeyrAl.F/ue0BOn8T2z5eeBOuwExylAQmKlAYaD.tMIftEpNya9G"
+  },
+  {
+    "_id": "beb77c38-2ab9-44f2-b30e-80ec12eef201",
+    "username": "Klein Moretti",
+    "password": "$2b$10$kqkUYgDhKtUUSLer90LjyOubhumRa6FpuugsEJWuHXDUdOteTRrqu"
+  }
+]
